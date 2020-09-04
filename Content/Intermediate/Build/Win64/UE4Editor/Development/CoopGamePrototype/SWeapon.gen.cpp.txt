@@ -1,0 +1,5 @@
+D:\Repository\Unreal Engine Projects\CoopGamePrototype\Intermediate\Build\Win64\UE4Editor\Development\CoopGamePrototype\Definitions.CoopGamePrototype.h
+D:\Unreal engine\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+D:\Unreal engine\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+D:\Repository\Unreal Engine Projects\CoopGamePrototype\Source\CoopGamePrototype/SWeapon.h
+d:\repository\unreal engine projects\coopgameprototype\intermediate\build\win64\ue4editor\inc\coopgameprototype\SWeapon.generated.h

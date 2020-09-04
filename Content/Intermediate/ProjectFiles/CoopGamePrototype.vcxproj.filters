@@ -1,0 +1,112 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\CoopGamePrototype.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{9F4FA104-B672-4758-83EF-8F8D1F5BDBE8}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\CoopGamePrototype.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\CoopGamePrototypeEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{5B3312FA-0125-430B-AF09-8BF4318A1743}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\CoopGamePrototype">
+      <UniqueIdentifier>{8BCD511E-451C-4700-97C6-183E56A2436D}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\CoopGamePrototype\CoopGamePrototype.Build.cs">
+      <Filter>Source\CoopGamePrototype</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\CoopGamePrototype\CoopGamePrototype.cpp">
+      <Filter>Source\CoopGamePrototype</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CoopGamePrototype\CoopGamePrototype.h">
+      <Filter>Source\CoopGamePrototype</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CoopGamePrototype\CoopGamePrototypeGameModeBase.cpp">
+      <Filter>Source\CoopGamePrototype</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CoopGamePrototype\CoopGamePrototypeGameModeBase.h">
+      <Filter>Source\CoopGamePrototype</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CoopGamePrototype\SCharacter.cpp">
+      <Filter>Source\CoopGamePrototype</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CoopGamePrototype\SCharacter.h">
+      <Filter>Source\CoopGamePrototype</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CoopGamePrototype\SGameMode.cpp">
+      <Filter>Source\CoopGamePrototype</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CoopGamePrototype\SGameMode.h">
+      <Filter>Source\CoopGamePrototype</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CoopGamePrototype\SHealthComponent.cpp">
+      <Filter>Source\CoopGamePrototype</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CoopGamePrototype\SHealthComponent.h">
+      <Filter>Source\CoopGamePrototype</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CoopGamePrototype\SPickUpActor.cpp">
+      <Filter>Source\CoopGamePrototype</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CoopGamePrototype\SPickUpActor.h">
+      <Filter>Source\CoopGamePrototype</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CoopGamePrototype\SPowerupActor.cpp">
+      <Filter>Source\CoopGamePrototype</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CoopGamePrototype\SPowerupActor.h">
+      <Filter>Source\CoopGamePrototype</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CoopGamePrototype\STrackerBot2.cpp">
+      <Filter>Source\CoopGamePrototype</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CoopGamePrototype\STrackerBot2.h">
+      <Filter>Source\CoopGamePrototype</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CoopGamePrototype\SWeapon.cpp">
+      <Filter>Source\CoopGamePrototype</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CoopGamePrototype\SWeapon.h">
+      <Filter>Source\CoopGamePrototype</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\Source\CoopGamePrototype\SGameState.h">
+      <Filter>Source\CoopGamePrototype</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\CoopGamePrototype\SGameStatee.h">
+      <Filter>Source\CoopGamePrototype</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\CoopGamePrototype\SPlayerState.h">
+      <Filter>Source\CoopGamePrototype</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\Source\CoopGamePrototype\SGameState.cpp">
+      <Filter>Source\CoopGamePrototype</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\CoopGamePrototype\SGameStatee.cpp">
+      <Filter>Source\CoopGamePrototype</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\CoopGamePrototype\SPlayerState.cpp">
+      <Filter>Source\CoopGamePrototype</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

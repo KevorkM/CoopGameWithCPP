@@ -1,0 +1,3 @@
+D:\Repository\Unreal Engine Projects\CoopGamePrototype\Source\CoopGamePrototype\CoopGamePrototype.Build.cs
+D:\Repository\Unreal Engine Projects\CoopGamePrototype\Source\CoopGamePrototype.Target.cs
+D:\Repository\Unreal Engine Projects\CoopGamePrototype\Source\CoopGamePrototypeEditor.Target.cs

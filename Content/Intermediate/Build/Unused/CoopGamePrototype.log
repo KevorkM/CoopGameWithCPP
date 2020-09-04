@@ -1,0 +1,15 @@
+﻿  Creating makefile for CoopGamePrototypeEditor (ini files are newer than makefile)
+  Parsing headers for CoopGamePrototypeEditor
+    Running UnrealHeaderTool "D:\Repository\Unreal Engine Projects\CoopGamePrototype\CoopGamePrototype.uproject" "D:\Repository\Unreal Engine Projects\CoopGamePrototype\Intermediate\Build\Win64\CoopGamePrototypeEditor\Development\CoopGamePrototypeEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+  Reflection code generated for CoopGamePrototypeEditor in 6.2615556 seconds
+  Deleted hot-reload file: D:\Repository\Unreal Engine Projects\CoopGamePrototype\Binaries\Win64\UE4Editor-CoopGamePrototype-0001.dll
+  Deleted hot-reload file: D:\Repository\Unreal Engine Projects\CoopGamePrototype\Intermediate\Build\Win64\UE4Editor\Development\CoopGamePrototype\UE4Editor-CoopGamePrototype-0001.lib
+  Using Visual Studio 2017 14.16.27023 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.16299.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Building 3 actions with 8 processes...
+    [1/3] UE4Editor-CoopGamePrototype.lib
+       Creating library D:\Repository\Unreal Engine Projects\CoopGamePrototype\Intermediate\Build\Win64\UE4Editor\Development\CoopGamePrototype\UE4Editor-CoopGamePrototype.lib and object D:\Repository\Unreal Engine Projects\CoopGamePrototype\Intermediate\Build\Win64\UE4Editor\Development\CoopGamePrototype\UE4Editor-CoopGamePrototype.exp
+    [2/3] UE4Editor-CoopGamePrototype.dll
+       Creating library D:\Repository\Unreal Engine Projects\CoopGamePrototype\Intermediate\Build\Win64\UE4Editor\Development\CoopGamePrototype\UE4Editor-CoopGamePrototype.suppressed.lib and object D:\Repository\Unreal Engine Projects\CoopGamePrototype\Intermediate\Build\Win64\UE4Editor\Development\CoopGamePrototype\UE4Editor-CoopGamePrototype.suppressed.exp
+    [3/3] CoopGamePrototypeEditor.target
+  Total time in Parallel executor: 1.41 seconds
+  Total execution time: 9.56 seconds

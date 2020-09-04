@@ -1,0 +1,9 @@
+D:\Repository\Unreal Engine Projects\CoopGamePrototype\Intermediate\Build\Win64\UE4Editor\Development\CoopGamePrototype\Definitions.CoopGamePrototype.h
+D:\Unreal engine\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+D:\Unreal engine\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+D:\Repository\Unreal Engine Projects\CoopGamePrototype\Source\CoopGamePrototype/STrackerBot.h
+D:\Unreal engine\UE_4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h
+D:\Unreal engine\UE_4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/RootMotionSource.h
+D:\Unreal engine\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RootMotionSource.generated.h
+D:\Unreal engine\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Character.generated.h
+d:\repository\unreal engine projects\coopgameprototype\intermediate\build\win64\ue4editor\inc\coopgameprototype\STrackerBot.generated.h

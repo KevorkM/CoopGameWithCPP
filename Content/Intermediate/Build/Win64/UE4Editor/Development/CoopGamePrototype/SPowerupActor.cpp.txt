@@ -1,0 +1,3 @@
+D:\Repository\Unreal Engine Projects\CoopGamePrototype\Intermediate\Build\Win64\UE4Editor\Development\CoopGamePrototype\Definitions.CoopGamePrototype.h
+d:\repository\unreal engine projects\coopgameprototype\source\coopgameprototype\SPowerupActor.h
+D:\Repository\Unreal Engine Projects\CoopGamePrototype\Intermediate\Build\Win64\UE4Editor\Inc\CoopGamePrototype\SPowerupActor.generated.h
